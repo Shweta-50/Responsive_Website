@@ -1,0 +1,55 @@
+
+
+		.bgimg{background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('imgg/kk.jpg'); 
+	   background-size: 100% 100%;
+	   background-attachment: fixed;
+	   width:100%; height: 100vh;}
+	   nav{opacity: 0.8;}
+	   .body{padding-top: 200px; box-sizing: border-box;}
+	   .body h2{font-size: 42px;text-shadow: 2px 2px 2px black;}
+	   .body h1{font-size: 5rem; font-weight: bold;text-shadow: 2px 2px 2px black;}
+	   
+
+	   ..............ourservices.......
+	   .ourservices{padding:10px; height:500px;}
+	   .ourservices h1{font-size: 50px;font-weight:bold;margin-top: 50px;}
+	   .rowsetting{margin:80px 0px! important;box-sizing: border-box;}
+	    a:hover{color:#ecba10 !important;}
+	    .navbar-nav{font-weight: bold;}
+	   
+	   .pg{margin-top: 20px;}
+	   .img{border-radius:50%;height:100px; width:100px;}
+	   .font{margin:20px;}
+	   .rowsetting p{color:#6c757d;padding:10px; font-weight:bold;}
+	   .rowsetting h2{font-weight:bold;}
+	   .ourservices p{font-weight:bold;color:#6c757d;}
+	   .boxshadow{box-shadow:2px 2px 2px 2px black;}
+	   .card-img-fluid{height:30%; width:100%; }
+
+	   ..................portfolio..............
+	   .portfolio{height:100px; width:100px; padding:100px 50px;}
+	   .portfolio h1{font-size: 50px; font-weight:bold: margin-top:10;}
+	   .portfolio p{color:#6c757d;margin-bottom:15px; font-weight:bold;}
+	   .card{margin:10px;box-shadow: 2px 2px 2px  black;}
+
+	   ...............ourteam...........
+	   .ourteam{height:700px; padding:100px 0px 60px; width:100%;}
+	   .container h1{margin-top: 7%; font-weight: bold;}
+	   .row p{font-weight: bold;color:#6c757d;margin-bottom:10%; }
+	   .container p{font-weight: bold;color:#6c757d}
+	   .teamsetting{margin-top:50px;}
+
+	   /*..............queryform..........*/
+	   
+	   .formimg{height:200px;width:100%;margin-bottom: 20px;}
+	   .formimg img{height:200px;width:100%;}
+	   .formcont{width:50% !important; margin-top:20px; }
+	   .box{display: flex;justify-content: center;}
+	   
+
+	   /*...............footer............*/
+	   .footer{height:100px;padding:5px;margin:5px;background-color:black;opacity: 0.8;}
+	   .footer h5{margin-top:10px;padding: 10px;}
+	   .footer p i{text-align:center;font-size:25px; margin-left: 10px;padding-bottom: 10px;}
+	   .boxx{height: 40%;}
+	   
